@@ -2,7 +2,7 @@
   <div>
     <b-navbar toggleable="lg" type="light" variant="transparent">
       <div class="container">
-        <b-navbar-brand href="#">KuliNEAR</b-navbar-brand>
+        <b-navbar-brand href="#">FeedMe</b-navbar-brand>
 
         <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
 
