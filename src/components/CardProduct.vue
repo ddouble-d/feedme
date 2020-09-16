@@ -11,7 +11,7 @@
       Harga : Rp. {{product.harga}}
     </b-card-text>
 
-    <b-button href="#" variant="success"><b-icon-cart2></b-icon-cart2> Order</b-button>
+    <router-link :to="'/foods/'+product.id" class="btn btn-success"><b-icon-cart2></b-icon-cart2> Order</router-link>
   </b-card>
 </template>
 
